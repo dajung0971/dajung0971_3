@@ -1,0 +1,37 @@
+body {
+    background-color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
+}
+header{
+    border-bottom: 3px solid #fff;
+    background-color: lightblue;
+    margin: 0px;
+    text-align: center;
+    padding: 5px;
+}
+h1{
+    margin: 0px;
+}
+section#main{
+    float: right;
+    width: 70%;
+    height: 200px;
+    background-color: dodgerblue;
+}
+nav{
+    float: left;
+    width: 30%;
+    height: 200px;
+    background-color: skyblue;
+}
+footer{
+    border-top: 3px solid #fff;
+    background-color: darkslategrey;
+    color: azure;
+    text-align: center;
+    padding: 10px;
+    margin: 0px 0px 0px 0px;
+    font-size: 90%;
+    clear: both;
+}
